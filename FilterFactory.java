@@ -52,9 +52,9 @@ public class FilterFactory implements Factory{
 
 		try{
 			if(line[2].equals("x")||line[2].equals("replicate")||line[2].equals("circular")||line[2].equals("symmetric")){
-			edgecase = line[2];
+			        edgecase = line[2];
 			}else if(line[3].equals("x")||line[3].equals("replicate")||line[3].equals("circular")||line[3].equals("symmetric")){
-			edgecase = line[3];
+			        edgecase = line[3];
 			}
 		}catch(Exception e){
 			edgecase = "x";
