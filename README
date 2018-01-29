@@ -1,5 +1,3 @@
-This is my first bigger program.
+This is my first java factory program.
 The architecture and type signatures were given by specification.
-I wrote my first Interfaces, Factories, Exceptions,
-used the Inheritance, abstract classes and HashMap the first time and
-wrote my own stack.
+I wrote Interfaces, Factories, Exceptions, abstract classes and my own stack.
